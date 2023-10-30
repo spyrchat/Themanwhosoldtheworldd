@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Themanwhosoldtheworldd
-- 👀 I’m interested in ... Machine learning, TensorFlow, Deep Learning, Supervised and Unsupervised Learning
+- 👀 I’m interested in ... Machine learning, Image Processing, Autonomous Systems
 - 🌱 I’m currently learning ... Tensorflow
 - 📫 How to reach me ... spyrchat@ece.auth.gr
 
