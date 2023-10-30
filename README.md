@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Themanwhosoldtheworldd
+- 👋 Hi, I’m @spyrchat
 - 👀 I’m interested in ... Machine learning, Image Processing, Autonomous Systems
 - 🌱 I’m currently learning ... Tensorflow
 - 📫 How to reach me ... spyrchat@ece.auth.gr
